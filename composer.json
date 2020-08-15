@@ -1,0 +1,12 @@
+{
+    "name": "manzwebdesigns/transferwise",
+    "description": "TransferWise non-merchant gateway for Blesta",
+    "license": "proprietary",
+    "type": "manzwebdesigns-blesta-nonmerchant-gateway",
+    "require": {
+        "blesta/composer-installer": "~1.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    }
+}
